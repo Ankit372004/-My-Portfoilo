@@ -275,3 +275,18 @@ export const testimonials = [
     quote: "Ankit balances academic research in Free Space Optics and deep learning models with commendable dedication. His national sports background reflects in his discipline, team spirit, and tenacity to solve difficult problems."
   }
 ];
+
+export const contactConfig = {
+  // Provider: 'formspree' or 'emailjs'
+  // Formspree Form ID (e.g., 'mzzpkybw' or 'xpwzqabk' from https://formspree.io)
+  formspreeId: import.meta.env.VITE_FORMSPREE_ID || "",
+
+  // EmailJS credentials (if preferred over Formspree)
+  emailjsServiceId: import.meta.env.VITE_EMAILJS_SERVICE_ID || "",
+  emailjsTemplateId: import.meta.env.VITE_EMAILJS_TEMPLATE_ID || "",
+  emailjsPublicKey: import.meta.env.VITE_EMAILJS_PUBLIC_KEY || "",
+
+  // Direct recipient email
+  recipientEmail: "realankit3@gmail.com"
+};
+
