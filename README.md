@@ -1,6 +1,9 @@
-# ✨ Clean Modern Developer Portfolio (React + Tailwind CSS + Vite)
+# ✨ Ankit Kumar - Clean Modern Developer Portfolio (React + Tailwind CSS + Vite)
 
-A high-performance, ultra-clean portfolio website built with **React 18**, **Tailwind CSS**, and **Vite**. Features an aesthetic, minimalist interface inspired by modern engineering cultures (Vercel, Linear, Apple, Stripe) with full interactive functionality across all buttons and components.
+A high-performance, ultra-clean personal developer portfolio website for **Ankit Kumar** (Pre-Final Year CSE at Chandigarh University), built with **React 18**, **Tailwind CSS**, and **Vite**.
+
+- **GitHub Repository:** [https://github.com/Ankit372004/-My-Portfoilo](https://github.com/Ankit372004/-My-Portfoilo)
+- **Developer:** [Ankit Kumar](https://github.com/Ankit372004)
 
 ---
 
